@@ -1,5 +1,6 @@
 # Pattern-Based Lock Mechanism (FSM + EEPROM)
 
+Tinkercad Simulation: https://www.tinkercad.com/things/jDIGi1TuK2K-pattern-based-lock-mechanism
 This Arduino project implements a pattern-based electronic lock using:
 
 - 4 push buttons as the password input
